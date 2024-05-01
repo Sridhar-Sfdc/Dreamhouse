@@ -5,6 +5,7 @@
  * @dependencies objects: Flight__c, Passenger__c
  * @fields: Flight__c.Departure_Time__c, Flight__c.Flight_Number__c, Flight__c.Scheduled_Time__c, Flight__c.Status__c, Passenger__c.Email__c, Passenger__c.First_Name__c, Passenger__c.Last_Name__c, Passenger__c.Passenger_Number__c, Passenger__c.Ticket_Number__c
  */
+// comments are useful for code readability
 
  public with sharing class AirlineReservationApp {
     
